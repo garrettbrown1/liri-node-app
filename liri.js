@@ -1,4 +1,4 @@
-require("dotenv").config();
+require("adotenv").config();
 var keys = require("./keys.js"); // Grab data from keys.js
 var fs = require("fs"); // node package for reading and writing files
 var request = require("request"); // node package for making http requests
