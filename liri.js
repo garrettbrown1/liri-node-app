@@ -10,7 +10,7 @@ var value = process.argv[3];
 //Spotify Exercise
 function spotifyThisSong(value) {
 	// Grab or assemble the song name and store it in a variable called "trackName"
-	var trackName = 'Clocks';
+	var trackName = 'All of my Love';
 	if (value != undefined) {
 		trackName = value;
 	}
